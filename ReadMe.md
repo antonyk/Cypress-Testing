@@ -9,7 +9,11 @@ The module challenge is the afternoon project or assignment that students work t
 ## Objectives
 
 - explain what end-to-end testing is and its importance
+
+End-to-end testing is one of a number of differen types of tests that can be designed, implemented and ran against an application and its codebase. End-to-end automates the testing that would otherwise be done manually by testers, by simulating an end user's interaction with a website. It is important because, since it is performed programatically, it can be integrated into a company's CI/CD pipeline, allowing for a much faster release cycles.
+
 - use the Cypress GUI to write tests and interact with Elements
+
 - use Cypress to test controlled input
 - run all tests in without any UI
 
